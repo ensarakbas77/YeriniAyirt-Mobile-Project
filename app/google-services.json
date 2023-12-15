@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791069177542",
+    "project_id": "myapp-3ee55",
+    "storage_bucket": "myapp-3ee55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791069177542:android:5e06138286b29c98c0c9c7",
+        "android_client_info": {
+          "package_name": "com.ensar.mobilprojem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJr9L3bFxx1M2e2snrD0ShtozPIGyynmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
